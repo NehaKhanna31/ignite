@@ -76,7 +76,7 @@
         <dependency>
             <groupId>com.datastax.cassandra</groupId>
             <artifactId>cassandra-driver-core</artifactId>
-            <version>${cassandra-driver.version}</version>
+            <version>4.0.0</version>
         </dependency>
 
         <dependency>
@@ -118,7 +118,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>${guava.version}</version>
+            <version>30.0-jre</version>
         </dependency>
 
         <dependency>
